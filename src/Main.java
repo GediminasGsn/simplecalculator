@@ -10,5 +10,6 @@ public class Main {
         answer = fnum + snum;
         System.out.println("Equals to:" + (int) answer);
 
+
     }
 }
